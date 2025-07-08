@@ -13,7 +13,7 @@ This project generates a **QR code** that, when scanned, directs the user to you
 ## 📁 Project Structure
 
 ```
-qr-gen-scan-portal
+QR-gen-scanportal
 ├── myenv
 ├── static
 │   ├── qr_code
