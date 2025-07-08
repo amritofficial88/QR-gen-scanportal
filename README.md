@@ -1,4 +1,4 @@
-# qr-gen-scan-portal
+# QR-gen-scanportal
 
 This project generates a **QR code** that, when scanned, directs the user to your desired URL. The QR code can be customized with additional text or a logo and can open your LinkedIn profile, resume, or any other URL.
 
