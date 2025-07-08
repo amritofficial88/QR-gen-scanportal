@@ -45,4 +45,4 @@ pip install flask qrcode pillow opencv-python pyzbar
 
 
 
-<p align="center"><b>© Created by Amritangshu Dey</b></p?
+<p align="center"><b>Created by Amritangshu Dey & Biprajeet Sen</b></p?
